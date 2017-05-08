@@ -1,1 +1,15 @@
-﻿
+{
+  "name": "animal2sellWithORM",
+   "version": "1.0.0",
+  "description": "coded for teaching purpose of ORM",
+  "main": "server.js",
+  "dependencies": {
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohammed Kemal",
+  "license": "MIS"
+}
